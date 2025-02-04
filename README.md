@@ -22,3 +22,20 @@ def random_spiral():
 
 
 ![image](https://github.com/user-attachments/assets/6112bf41-50c1-43d8-966b-708fd21d373e)
+
+
+
+#Esse capitulo tem destaque também na interatividade com o usúario , através de eventos , como um clicar de um mouse e uma movitação :
+
+exemplo:
+
+
+import turtle
+t = turtle.Pen()
+t.speed(0)
+turtle.onscreenclick()
+
+
+![image](https://github.com/user-attachments/assets/5c4c60a1-513d-4930-86b9-c71e207bfdcc)
+
+
